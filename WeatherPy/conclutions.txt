@@ -1,0 +1,12 @@
+Conclutions:
+
+* Clearly there is a linear dependence between Max Temperature versus Latitude
+within the northern hemisphere, which has a negative slope this is for a greater
+there is a lower Max Temperature.
+There is the same behavior in the southern hemisphere with a positive slope.
+
+* There are some limitations trying to describe a lineal model that describes the
+relation between Latitud and Humidity, Cludiness, Wind Speed. 
+
+* Places close to the Equatorial line tend to have higher Max temperatures than
+places that are further.
